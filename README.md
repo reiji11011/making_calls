@@ -17,9 +17,9 @@ Twilio APIを用いて通話を発信します。
 [![Image from Gyazo](https://i.gyazo.com/fdb6cd1b44b9b424b9a37d7e10c5b73f.gif)](https://gyazo.com/fdb6cd1b44b9b424b9a37d7e10c5b73f)  
 
 ## 今後したいこと
-[ ] エラー時のデバック処理  
-[ ] メッセージをオリジナルの文章に変更  
-[ ] その他電話関連の処理  
+- [ ] エラー時のデバック処理  
+- [ ] メッセージをオリジナルの文章に変更  
+- [ ] その他電話関連の処理  
 
 ## 参考
 dotenv  
