@@ -3,7 +3,7 @@ Twilioを使った、通話発信プログラム
 
 ## 使用技術
 ruby 2.3.1  
-dotenv (2.5.0)  
+dotenv 2.5.0  
 
 ## 詳細
 Twilio APIを用いて通話を発信します。  
