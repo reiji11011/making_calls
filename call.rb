@@ -14,3 +14,9 @@ call = @client.calls.create(
   from: ENV['CALL_FROM']
   )
 puts call.sid
+
+通話ログの取得
+calls = @client.calls.list
+calls.each do |record|
+  puts record.sid
+end
